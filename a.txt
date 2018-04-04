@@ -1,1 +1,5 @@
+ HEAD
 This is Nb1 branch
+=======
+this is the file in NB2
+ nb2
